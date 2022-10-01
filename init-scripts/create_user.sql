@@ -1,0 +1,8 @@
+CREATE USER 'berkan.osmanli' IDENTIFIED BY '1234a';
+CREATE USER 'berkan.osmanli1' IDENTIFIED BY '1234a';
+CREATE USER 'berkan.osmanli2' IDENTIFIED BY '1234a';
+CREATE USER 'berkan.osmanli3' IDENTIFIED BY '1234a';
+CREATE USER 'berkan.osmanli4' IDENTIFIED BY '1234a';
+CREATE USER 'berkan.osmanli5' IDENTIFIED BY '1234a';
+
+
